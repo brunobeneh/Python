@@ -13,9 +13,8 @@
 ### 02 - [Work with PDFs](../blob/master/LICENSE)
 ### 03 - [Sending Emails with Python](../blob/master/LICENSE)
 ### 04 - [Password Checker Project](../blob/master/LICENSE)
-### 05 - [SMS with Python](../blob/master/LICENSE)
-### 06 - [Web Scraping](../blob/master/LICENSE)
-### 07 - [Web Development with Flask](../blob/master/LICENSE)
+### 05 - [Web Scraping](../blob/master/LICENSE)
+### 06 - [Web Development with Flask](../blob/master/LICENSE)
 ### 07 - [Automation/Testing](../blob/master/LICENSE)
 ### 08 - [Machine Learning/Really Smart Brain](../blob/master/LICENSE)
 
