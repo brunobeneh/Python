@@ -9,7 +9,7 @@
 ## [ZTM Academy](https://zerotomastery.io/academy/ "ZTM Academy")
 
 # INDEX:
-### 01 - [JPG to PNG Pokedex Converter](../blob/master/LICENSE)
+### 01 - [JPG to PNG Pokedex Converter](../01_JPG_to_PNG_Pokedex_Converter)
 ### 02 - [Work with PDFs](../blob/master/LICENSE)
 ### 03 - [Sending Emails with Python](../blob/master/LICENSE)
 ### 04 - [Password Checker Project](../blob/master/LICENSE)
